@@ -1,2 +1,2 @@
 # Project-Engineering-Thermodynamics
-Internal Energy Change Calculation for Themodynamic Systems Final Report with C# code.
+Internal Energy Change Calculation for Thermodynamic Systems Final Report with C# code.
